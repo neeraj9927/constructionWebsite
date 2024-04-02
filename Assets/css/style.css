@@ -104,9 +104,9 @@ section.section-five {
   }
   .slider_content p{
     font-size: 28px;
-  }
-  
+  }  
 }
+
 @media(min-width: 592px) and (max-width: 765px) {
   .slider_content {
     padding: 1rem 0;
